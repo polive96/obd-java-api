@@ -1,4 +1,4 @@
-obd-java-api
+JEEP obd-java-api
 ============
 
 JEEP OBD-II Java API
