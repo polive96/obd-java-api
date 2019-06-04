@@ -1,7 +1,7 @@
 obd-java-api
 ============
 
-OBD-II Java API
+JEEP OBD-II Java API
 
 ## NOTICE
 
