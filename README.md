@@ -3,17 +3,6 @@ obd-java-api
 
 JEEP OBD-II Java API
 
-## NOTICE
-
-**I am no longer involved in any way with OBD and related activities, so don't expect my feedback on issues, pull-requests and most of all, email.**
-
-I can't even remember when I first picked this project but it was fun as hell in the beginning. Now, years went by and a few contributors jumped in with amazing, smart features and fixes. To those fine people, **Thank you**! This is your _baby_, too.
-
-Now, it's time to say goodbye.
-Pires
-
-[![Build status](https://circleci.com/gh/pires/obd-java-api.svg?style=svg)](https://circleci.com/gh/pires/obd-java-api)
-
 ## Important resources
 
 Before opening an issue or using this library, please take a look at the following resources:
